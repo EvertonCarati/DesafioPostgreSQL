@@ -9,4 +9,6 @@ Usuário: docker_usr
 Senha: docker_pwd
 
 Parar a execução do banco de dados MySQL
-docker compose stop# DesafioPostgreSQL
+docker compose stop
+
+# DesafioPostgreSQL
